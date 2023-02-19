@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 <!-- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=piyumalanthony) ![Github](https://img.shields.io/github/followers/piyumalanthony?label=Follow&style=social) -->
 
-<!-- ![trophy](https://github-profile-trophy.vercel.app/?username=piyumalanthony&row=1&column=5&margin-w=15) --> -->
+<!-- ![trophy](https://github-profile-trophy.vercel.app/?username=piyumalanthony&row=1&column=5&margin-w=15) --> 
 
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=piyumalanthony&show_icons=true&hide_border=true&count_private=true&include_all_commits=false&hide_title=true)
