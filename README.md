@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @piyumalanthony.
 - 👀 I’m interested in Machine Learning, Deep Learning and Bioinformatics.
-- 💞️ I’m looking to collaborate on optimizations for deep learning techniques in phylogentics.
+- I’m looking to collaborate on optimizations for deep learning techniques in phylogentics.
 - 📫 How to reach me: Piyumal.Demotte@anu.edu.au
 
 <!---
